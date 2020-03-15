@@ -1,5 +1,7 @@
 # Denoising-by-sparse-image-representation-added-Total-Variation
 
+以下の手順で実行
+
 ## proposal_method_lambda.m(初回のみ)
 雑音画像の生成  
 l.69,107のコメントアウトを外し,下のimportdataの行をコメントアウトして実行
